@@ -1,2 +1,2 @@
 # jmeter-b12
-meter b12 project
+Jmeter b12 project
